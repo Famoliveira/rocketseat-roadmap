@@ -190,14 +190,14 @@ footer {
 /* Estilização da carga horária */
 .hours-badge {
     background-color: var(--green);
-    color: var(--bg-dark);
+    color: var(--text-secondary);
     border-radius: 12px;
     padding: 4px 10px;
     font-size: 0.85rem;
     font-weight: 600;
     display: inline-flex;
     align-items: center;
-    margin-top: 12px;
+    margin-top: 4px;
 }
 
 /* Ajusta o ícone do relógio dentro da badge */
